@@ -1,0 +1,14 @@
+{
+  "name": "crudapplication",
+  "version": "1.0.0",
+  "description": "This is a demo project learn best APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "]"
+  },
+  "author": "shivam singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
